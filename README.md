@@ -1,6 +1,6 @@
 # 🛹 **Skateboard 3D Website**
 
-![Skateboard Website](https://cloud-32fg81l0z-hack-club-bot.vercel.app/1screenshot_2025-01-26_at_7.26.10___pm.png)
+![Skateboard Website](https://cloud-yqog2d9gy-hack-club-bot.vercel.app/01.png)
 
 A cutting-edge **3D interactive skateboard website** showcasing modern web technologies, engaging animations, and seamless user experience. Built to wow visitors with stunning 3D visuals and smooth transitions.
 
@@ -33,7 +33,7 @@ A cutting-edge **3D interactive skateboard website** showcasing modern web techn
 
 ### **3D Skateboard View**
 
-![3D View](https://cloud-32fg81l0z-hack-club-bot.vercel.app/0screenshot_2025-01-26_at_7.26.25___pm.png)
+![3D View](https://cloud-6s9j2uzt1-hack-club-bot.vercel.app/02.png)
 
 ----------
 
